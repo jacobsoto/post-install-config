@@ -69,7 +69,7 @@ Service Level Agreements (SLAs) will have to be made in order to categorize tick
 
 
 
-Now that the configurations have been set in place, I can now utilize osTicket as a proper ticketing system. I can create tickets and be able to traige them as if I were in a real environment.
+Now that the configurations have been set in place, I can now utilize osTicket as a proper ticketing system. I can create tickets and be able to triage them as if I were in a real environment.
 
 
 
