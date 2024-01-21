@@ -21,7 +21,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Remote Desktop Connection
 
-- osTicket
+- OsTicket
  
 
 
